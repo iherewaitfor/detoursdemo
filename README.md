@@ -3,7 +3,7 @@
 
 
 # How to run
-安装好[cmake]()
+安装好[cmake](https://cmake.org/download/)（可使用默认安装，选择把cmake自动加入到命令行）
 cd build。然后运行以下命令
 ```
 cmake .. -G "Visual Studio 17 2022" -A Win32
