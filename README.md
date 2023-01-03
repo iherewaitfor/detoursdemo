@@ -40,7 +40,7 @@ CMake Deprecation Warning at CMakeLists.txt:2 (cmake_minimum_required):
 D:\srccode\detoursdemo\build>
 ```
 
-然后在build目录中打开生成的sln，把demoa项目设置为启动项，编译运行即可。
+然后在build目录中打开生成的sln，把Demo项目设置为启动项，编译运行即可。
 
 # 编译自己的detours
 本项目的detours从[https://github.com/iherewaitfor/detoursdemo.git](https://github.com/microsoft/Detours) colone下来后.
